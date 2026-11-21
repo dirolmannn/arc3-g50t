@@ -1,0 +1,19 @@
+# secrets - never commit
+arc_api_key.txt
+api_key.txt
+key.txt
+*.key
+
+# big / downloaded files
+environment_files/
+*.parquet
+*.safetensors
+*.pdf
+*.url
+outputs/
+logs/
+lora_*/
+
+# junk
+__pycache__/
+.ipynb_checkpoints/

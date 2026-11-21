@@ -1,0 +1,33 @@
+{
+  "g50t": {
+    "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5"
+    ],
+    "available_actions": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "win_levels": 7,
+    "frame_shape": [
+      64,
+      64
+    ],
+    "colors_used": [
+      0,
+      1,
+      5,
+      8,
+      9
+    ],
+    "deepcopy_ok": true,
+    "deepcopy_seconds": 0.0036,
+    "deepcopy_independent_and_same": true
+  }
+}
